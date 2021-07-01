@@ -1,0 +1,4 @@
+{
+	"payload": "[{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"DECREMENT\",\"paso\":1},{\"type\":\"DECREMENT\",\"paso\":1},{\"type\":\"DECREMENT\",\"paso\":1},{\"type\":\"DECREMENT\",\"paso\":1},{\"type\":\"INCREMENT_ASYNC\",\"paso\":1},{\"type\":\"INCREMENT\",\"paso\":1},{\"type\":\"DECREMENT_ASYNC\",\"paso\":1},{\"type\":\"DECREMENT\",\"paso\":1}]",
+	"preloadedState": "{\"contador\":5678}"
+}
